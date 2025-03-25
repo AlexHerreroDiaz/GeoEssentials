@@ -2,6 +2,11 @@
 
 GeoEssentials is an Android application that provides various geographical utilities, including weather information, time zone comparison, and money exchange rates for different locations. The app leverages the OpenWeather API and RESTCountries API to fetch relevant data.
 
+<p align="center">
+  <img src="https://github.com/AlexHerreroDiaz/GeoEssentials/blob/master/screenshot/GeoEssentials_SC.png" />
+</p>
+
+
 ## Motivation
 
 The primary goal of this project is to learn a new programming language, Kotlin, and to gain hands-on experience with Android Studio. This serves as a foundation for developing Android applications. Additionally, the app is intended to be a useful tool for researching and comparing information between two locations, making it easier to analyze and contrast data efficiently.
